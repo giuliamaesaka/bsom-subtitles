@@ -520,7 +520,7 @@ this only describes the convergence to the point "a" if this works for any epsil
 
 131
 00:08:10,690 --> 00:08:14,580
-So no matter of small the epsilon is this always works.
+So no matter how small the epsilon is this always works.
 
 132
 00:08:15,000 --> 00:08:17,300
